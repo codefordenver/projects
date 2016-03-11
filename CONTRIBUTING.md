@@ -18,7 +18,7 @@ Here is what you need to know:
 
 Examples of what projects we will and won't take
 [
-  ![Code for Denver Values Box](images/cfd-values-box)
+  ![Code for Denver Values Box](images/cfd-values-box.png)
 ](https://docs.google.com/drawings/d/1k5xG6qdqwC0XFu2U5T2DhJtyXk13lh1hdsiIMUFVNNg)
 
 ___
