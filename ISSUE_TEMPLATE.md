@@ -9,7 +9,8 @@ What is the evidence that it is an issue in our community?]
 > [Is there a known organization that would be willing to partner on this?]
 
 ## Additional Background Context
-> [Is there additional context for the project]
+> [Is there additional context for the project
+Possible deadline?]
 
 ## Details
 _Champion_:  [To be filled out during exploration stage]
@@ -51,4 +52,7 @@ Stage Checklists
 
 ### Exploration
 This phase assumes you have a project champion and project waffle board
-- Create new project repo and waffle board with: https://cfd-new.herokuapp.com/
+- [ ] Create new project repo and waffle board with: https://cfd-new.herokuapp.com/
+- [ ] Follow pre-populated waffle board steps
+
+### Active Development
