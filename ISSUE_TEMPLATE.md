@@ -42,12 +42,12 @@ Stage Checklists
   - One Pomodoro for further discussion around any cards that were not determined quite ready for Exploration. Presenter should be ready to discuss, answer any questions, and revise pitch.
   - Quick update after pomodoro from presenters
 - Group determines next step in final vote:
-  a) Idea needs more development (card is moved back to Ideas list with label “Needs development”
-  c) Idea is accepted but group doesn’t have resources to take on right now (card stays in pitch column with label “Pitched - Accepted”)
-  d) Idea is accepted and group is ready to take on 
-- If outcome D is determined:
-  - [ ] - a) Identify project champion
-  - [ ] - b) Create project waffle board from Project Bootstrapper
+  - a) Idea needs more development (card is moved back to Ideas list with label “Needs development”
+  - b) Idea is accepted but group doesn’t have resources to take on right now (card stays in pitch column with label “Pitched - Accepted”)
+  - c) Idea is accepted and group is ready to take on 
+- If outcome c) is determined:
+  - [ ] a) Identify project champion
+  - [ ] b) Create project waffle board from Project Bootstrapper
 - If the above steps cannot be completed, then the project outcome should actually be C above, and project card stays in Pitches list with label “Pitched - Accepted”
 
 ### Exploration
