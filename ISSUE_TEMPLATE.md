@@ -37,19 +37,19 @@ Stage Checklists
 ### Presentation Phase/Night
 - [ ] Move card to Pitches/Presentation list in waffle if you are presenting tonight
 - [ ] Present to group (3 min limit)
-- [ ] Group Q&A
+- [ ] Group Q&A (3 min - if there is additional questions that can happen in the follow up pomodoro)
 - [ ] Initial vote on whether ready for Exploration Phase.
   - Cards that are voted ready should get "Pitched - Accepted" label
-  - One Pomodoro for further discussion around any cards that were not determined quite ready for Exploration. Presenter should be ready to discuss, answer any questions, and revise pitch.
+  - One pomodoro for further discussion around any cards that were not determined quite ready for Exploration. Presenter should be ready to discuss, answer any questions, and revise pitch.
   - Quick update after pomodoro from presenters
 - Group determines next step in final vote:
   - a) Idea needs more development (card is moved back to Ideas list with label “Needs development”
   - b) Idea is accepted but group doesn’t have resources to take on right now (card stays in pitch column with label “Pitched - Accepted”)
-  - c) Idea is accepted and group is ready to take on
+  - c) Idea is accepted and group has the capacity to take on (ie, the team is under the WIP limit for taking on projects)
 - If outcome c) is determined:
   - [ ] a) Identify project champion
   - [ ] b) Create project waffle board from Project Bootstrapper
-- If the above steps cannot be completed, then the project outcome should actually be C above, and project card stays in Pitches list with label “Pitched - Accepted”
+- If the above steps cannot be completed, then the project outcome should actually be B above, and project card stays in Pitches list with label “Pitched - Accepted”
 
 ### Exploration
 This phase assumes you have a project champion and project waffle board
