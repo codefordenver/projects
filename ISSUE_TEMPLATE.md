@@ -19,7 +19,7 @@ _Waffle Board_: [To be filled out during exploration stage]
 
 ___
 Stage Checklists
-> Complete checklists for stage in process
+> Complete checklists for each stage in process before moving forward
 
 ### Idea Phase (pre-pitch)
 - [ ] Have an idea/problem
@@ -32,6 +32,7 @@ Stage Checklists
   - [ ] **Not antagonistic to government**
   - [ ] **Not "free work"**
 - [ ] Fill out top of this card with problem statement, why, etc.
+- [ ] Coordinate with CfD member to get pitch on agenda for pitch night (first Monday of the month)
 
 ### Presentation Phase/Night
 - [ ] Move card to Pitches/Presentation list in waffle if you are presenting tonight
@@ -44,7 +45,7 @@ Stage Checklists
 - Group determines next step in final vote:
   - a) Idea needs more development (card is moved back to Ideas list with label “Needs development”
   - b) Idea is accepted but group doesn’t have resources to take on right now (card stays in pitch column with label “Pitched - Accepted”)
-  - c) Idea is accepted and group is ready to take on 
+  - c) Idea is accepted and group is ready to take on
 - If outcome c) is determined:
   - [ ] a) Identify project champion
   - [ ] b) Create project waffle board from Project Bootstrapper
