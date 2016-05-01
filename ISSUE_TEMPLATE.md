@@ -34,7 +34,7 @@ Stage Checklists
 - [ ] Fill out top of this card with problem statement, why, etc.
 - [ ] Coordinate with CfD member to get pitch on agenda for pitch night (first Monday of the month)
 
-### Presentation Phase/Night
+### Pitching Phase
 - [ ] Move card to Pitches/Presentation list in waffle if you are presenting tonight
 - [ ] Present to group (3 min limit)
 - [ ] Group Q&A (3 min - if there is additional questions that can happen in the follow up pomodoro)
@@ -51,9 +51,20 @@ Stage Checklists
   - [ ] b) Create project waffle board from Project Bootstrapper
 - If the above steps cannot be completed, then the project outcome should actually be B above, and project card stays in Pitches list with label “Pitched - Accepted”
 
-### Exploration
-This phase assumes you have a project champion and project waffle board
+### Exploration Phase
+This phase involves no actual building (e.g. programming), and requires you have a project champion
 - [ ] Create new project repo and waffle board with: https://cfd-new.herokuapp.com/
-- [ ] Follow pre-populated waffle board steps
+- [ ] Follow pre-populated waffle board steps to:
+  - [ ] Validate the problem is worth solving, and hasn't already been addressed
+  - [ ] Discover and connect with your users
+  - [ ] Connect with experts and partners
+  - [ ] Brainstorm solutions
+  - [ ] Paper prototype
+  - [ ] Validate paper prototype design is actually useful
+  - [ ] Define a testable MVP
+  - [ ] Prepare a pitch for Active Development
+  - [ ] Identify project tech lead (if applicable)
+- The pitch acceptance process to move into `Active Development` is the same as for the [Pitching Phase](#pitching-phase)
 
-### Active Development
+### Active Development Phase
+Active development is where a team invests in developing an minimum viable product (MVP), and then based on the feedback iterates and continues development.
