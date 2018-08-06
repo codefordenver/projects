@@ -1,4 +1,4 @@
-> NOTE: View the guidelines for projects [here](http://www.codefordenver.org/WorkWithUs)
+> NOTE: View the guidelines for projects [here](https://www.codefordenver.org/work-with-us/)
 
 ## What is the idea
 > [Do you have a loose idea for this project that could be validated?]
